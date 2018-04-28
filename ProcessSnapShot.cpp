@@ -118,7 +118,7 @@ namespace snapprocess {
 				out <<  strProcName <<  strSpaceCount0
 					<< *pId <<  std::basic_string<CharT>(10-cbSpaceCount1, ' ')
 					<< *ppId << std::endl;
-				Sleep(100);
+				//Sleep(100);
 			}
 		}
 
